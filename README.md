@@ -1,4 +1,4 @@
-# 🌟 Career Center Modeles MindMatch
+# 🌟 Career Center Modeles
 
 > **Empowering job seekers with AI-driven insights, personalized recommendations, and smart career tools.**
 
