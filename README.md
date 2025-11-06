@@ -1,4 +1,4 @@
-# 🌟 Career Center Modeles MindMatch
+# 🌟 Career Center MindMatch
 
 ## 🧭 Overview
 **Career Center Modeles MindMatch** is an AI-powered platform designed to enhance the job search and recruitment experience.  
